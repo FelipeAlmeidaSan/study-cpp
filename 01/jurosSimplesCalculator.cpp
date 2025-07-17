@@ -20,7 +20,6 @@ int main()
 
     // Fórmula para calcular o juros simples
     double juros = C * (i / 100) * t;
-
     cout << "O valor a juros simples é igaul à: " << juros << '\n';
 
     double total = C + juros;
